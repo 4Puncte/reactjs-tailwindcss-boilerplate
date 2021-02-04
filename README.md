@@ -1,11 +1,8 @@
-# A boilerplate for using [TailwindCSS] with [React]
-
-[TailwindCSS](https://tailwindcss.com)
-[React](https://reactjs.org)
+# A boilerplate for using TailwindCSS with React
 
 ## About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and adjusted in such a way to be able to use TailwindCSS.
 
 ### Available Scripts
 
