@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="bg-gray-50 p-3 h-screen">
+      <header className="my-8">
+        <h1 className="text-4xl font-bold font-serif">This is a boilerplate</h1>
       </header>
+      <article>
+        <p className="mt-5">
+          This is a boilerplate of a react-based web app that's using TailwindCSS to style the page components.
+        </p>
+      </article>
     </div>
   );
 }
